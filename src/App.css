@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  }
+
+  span img{
+    width: 45px;
+    vertical-align: middle;
+    border-radius: 50%;
+  }
+  
+  .App {
+    width: 55%;
+    margin: 0 auto;
+    border: 5px solid red;
+    margin-top: 0.5rem;
+  }
+  
+  .product{
+    display: flex;
+    border: 6px solid rgb(248, 134, 3);
+    margin: 3px;
+    padding: 10px;
+  }
+  
+  .fa-sort-up{
+    cursor: pointer;
+    vertical-align: middle;
+    color: rgba(137, 43, 226, 0.472);
+  }
+  
+  
+  .text{
+    color: rgba(137, 43, 226, 0.472);
+    font-size: 23px;
+  }
+  
+  span{
+    color: rosybrown;
+    font-size: 15px;
+  }
+  
+  .counts{
+    color: rgb(56, 53, 53);
+  }
+  
+  .text_h1{
+    color: rgb(56, 53, 53);
+    font-size: 23px;
+  }
+  
+  .img img{
+    width: 8rem;
+    margin: 0 auto;
+  }
+  
+  .pro{
+    margin-left: 20px;
+  }
+
+  
